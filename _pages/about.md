@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-# Albert Ho
+
 ![me](/images/1639620595159.jpg)
 
 <div style="text-align: center">I am currently a freshman undergraduate majoring in Computer Science and Engineering at the University of California, Merced.
@@ -13,7 +13,7 @@ anything computer science related.) Although I am not the most proficient in cod
 I am able to connect with others and hone my web dev. Please feel free to contact me through social media if you have any inquiries about my page
 or any topics that you found interesting! I would love to hear your perspective!</div> 
 
-### :handshake:**Connect with me:**
+###### <div style="text-align: center"><b>:handshake: Connect with me:</b></div>
 
 <a href="https://www.linkedin.com/in/alberthoo/"><img src="/images/58e91afdeb97430e81906504.png" width="25" height="25"/></a>
 <a href="https://https://www.instagram.com/albrthoo/"><img src="/images/instagram-new-flat.png" width="25" height="25"/></a>
