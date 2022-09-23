@@ -13,12 +13,19 @@ anything computer science related.) Although I am not the most proficient in cod
 I am able to connect with others and hone my web dev. Please feel free to contact me through social media if you have any inquiries about my page
 or any topics that you found interesting! I would love to hear your perspective!</div> 
 
-###### <div style="text-align: center"><b>:handshake: Connect with me:</b></div>
+###### <div style="text-align: center"><b>Connect with me:</b></div>
 
-<a href="https://www.linkedin.com/in/alberthoo/"><img src="/images/58e91afdeb97430e81906504.png" width="25" height="25"/></a>
-<a href="https://https://www.instagram.com/albrthoo/"><img src="/images/instagram-new-flat.png" width="25" height="25"/></a>
-<a href="https://www.discordapp.com/users/384835156503953410/"><img src="/images/discord-logo-logodownload-download-logotipos-1.png" width="25" height="25"/></a>
-
+<div class="row">
+  <div class="column">
+    <a href="https://www.linkedin.com/in/alberthoo/"><img src="/images/58e91afdeb97430e81906504.png" width="25" height="25"/></a>
+  </div>
+  <div class="column">
+    <a href="https://https://www.instagram.com/albrthoo/"><img src="/images/instagram-new-flat.png" width="25" height="25"/></a>
+  </div>
+  <div class="column">
+    <a href="https://www.discordapp.com/users/384835156503953410/"><img src="/images/discord-logo-logodownload-download-logotipos-1.png" width="25" height="25"/></a>
+  </div>
+</div>
 
 > This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
