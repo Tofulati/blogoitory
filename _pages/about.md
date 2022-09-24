@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![me](/images/1639620595159.jpg)
+<img src="/images/1639620595159.jpg" class="center"/>
 
 <div style="text-align: center">I am currently a freshman undergraduate majoring in Computer Science and Engineering at the University of California, Merced.
 As of right now, I have experience with Java, Python, and some in HTML however, I am still working on improving my skills. I have interests
@@ -13,7 +13,8 @@ anything computer science related.) Although I am not the most proficient in cod
 I am able to connect with others and hone my web dev. Please feel free to contact me through social media if you have any inquiries about my page
 or any topics that you found interesting! I would love to hear your perspective!</div> 
 
-###### <div style="text-align: center"><b>Connect with me:</b></div>
+
+<div style="text-align: center"><b>Connect with me:</b></div>
 
 <div class="row">
   <div class="column">
