@@ -9,9 +9,11 @@ permalink: /about/
     }
 </style>
 
-<div class="container">
-    <center><img src="{{ site.baseurl }}/images/1639620595159.jpg"></center>
-</div>
+<center>
+    <div class="container">
+        <img src="{{ site.baseurl }}/images/1639620595159.jpg">
+    </div>
+</center>
 
 <div style="text-align: center">I am currently a freshman undergraduate majoring in Computer Science and Engineering at the University of California, Merced.
 As of right now, I have experience with Java, Python, and some in HTML however, I am still working on improving my skills. I have interests
