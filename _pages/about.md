@@ -10,7 +10,7 @@ permalink: /about/
 </style>
 
 <div class="container">
-  <img src="/images/1639620595159.jpg" class="center">
+  <img src="{{ site.baseurl }}/images/1639620595159.jpg" class="center">
 </div>
 
 <div style="text-align: center">I am currently a freshman undergraduate majoring in Computer Science and Engineering at the University of California, Merced.
@@ -25,13 +25,13 @@ or any topics that you found interesting! I would love to hear your perspective!
 
 <center>
 <div class="container">
-  <a href="https://www.linkedin.com/in/alberthoo/"><img src="/images/58e91afdeb97430e81906504.png" width="25" height="25" class="center"></a>
+  <a href="https://www.linkedin.com/in/alberthoo/"><img src="{{ site.baseurl }}/images/58e91afdeb97430e81906504.png" width="25" height="25" class="center"></a>
 </div>
 <div class="container">
-  <a href="https://https://www.instagram.com/albrthoo/"><img src="/images/instagram-new-flat.png" width="25" height="25" class="center"></a>
+  <a href="https://https://www.instagram.com/albrthoo/"><img src="{{ site.baseurl }}/images/instagram-new-flat.png" width="25" height="25" class="center"></a>
 </div>
 <div class="container">
-  <a href="https://www.discordapp.com/users/384835156503953410/"><img src="/images/discord-logo-logodownload-download-logotipos-1.png" width="25" height="25" class="center"></a>
+  <a href="https://www.discordapp.com/users/384835156503953410/"><img src="{{ site.baseurl }}/images/discord-logo-logodownload-download-logotipos-1.png" width="25" height="25" class="center"></a>
 </div>
 </center>
     
