@@ -4,7 +4,7 @@ description: "The Stock Markets of August and September in the reds, thoughts of
 hide: false
 search_exclude: false
 layout: post
-image: LWVKQPHVBNBXBEV2VWXTURF26I.jpg
+image: /images/LWVKQPHVBNBXBEV2VWXTURF26I.jpg
 categories: [markdown]
 ---
 
