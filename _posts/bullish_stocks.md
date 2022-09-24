@@ -1,6 +1,7 @@
 ---
 title: "A Bullish Market"
 description: "The Stock Markets of August and September in the reds, thoughts of an amateur investor"
+hide: false
 layout: post
 comments: true
 image: images/LWVKQPHVBNBXBEV2VWXTURF26I.jpg
