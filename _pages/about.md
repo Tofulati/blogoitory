@@ -8,8 +8,10 @@ permalink: /about/
       display:inline-block;
     }
 </style>
-  
-<img src="/images/1639620595159.jpg" class="center">
+
+<div class="container">
+  <img src="/images/1639620595159.jpg" class="center"></a>
+</div>
 
 <div style="text-align: center">I am currently a freshman undergraduate majoring in Computer Science and Engineering at the University of California, Merced.
 As of right now, I have experience with Java, Python, and some in HTML however, I am still working on improving my skills. I have interests
@@ -18,18 +20,18 @@ anything computer science related.) Although I am not the most proficient in cod
 I am able to connect with others and hone my web dev. Please feel free to contact me through social media if you have any inquiries about my page
 or any topics that you found interesting! I would love to hear your perspective!</div> 
 
-<br></br>
+<br>
 <div style="text-align: center"><b>Connect with me:</b></div>
 
 
 <div class="container">
-  <a href="https://www.linkedin.com/in/alberthoo/"><img src="/images/58e91afdeb97430e81906504.png" width="25" height="25"></a>
+  <a href="https://www.linkedin.com/in/alberthoo/"><img src="/images/58e91afdeb97430e81906504.png" width="25" height="25" class="center"></a>
 </div>
 <div class="container">
-  <a href="https://https://www.instagram.com/albrthoo/"><img src="/images/instagram-new-flat.png" width="25" height="25"></a>
+  <a href="https://https://www.instagram.com/albrthoo/"><img src="/images/instagram-new-flat.png" width="25" height="25" class="center"></a>
 </div>
 <div class="container">
-  <a href="https://www.discordapp.com/users/384835156503953410/"><img src="/images/discord-logo-logodownload-download-logotipos-1.png" width="25" height="25"></a>
+  <a href="https://www.discordapp.com/users/384835156503953410/"><img src="/images/discord-logo-logodownload-download-logotipos-1.png" width="25" height="25" class="center"></a>
 </div>
 
 > This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
