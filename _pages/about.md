@@ -21,9 +21,9 @@ I am able to connect with others and hone my web dev. Please feel free to contac
 or any topics that you found interesting! I would love to hear your perspective!</div> 
 
 <br>
-<div style="text-align: center"><b>Connect with me:</b></div>
+<b>Connect with me:</b></div>
 
-
+<center>
 <div class="container">
   <a href="https://www.linkedin.com/in/alberthoo/"><img src="/images/58e91afdeb97430e81906504.png" width="25" height="25" class="center"></a>
 </div>
@@ -33,7 +33,8 @@ or any topics that you found interesting! I would love to hear your perspective!
 <div class="container">
   <a href="https://www.discordapp.com/users/384835156503953410/"><img src="/images/discord-logo-logodownload-download-logotipos-1.png" width="25" height="25" class="center"></a>
 </div>
-
+</center>
+    
 <br>
 
 > This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
