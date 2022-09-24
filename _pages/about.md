@@ -10,7 +10,7 @@ permalink: /about/
 </style>
 
 <div class="container">
-  <img src="/images/1639620595159.jpg" class="center"></a>
+  <img src="/images/1639620595159.jpg" class="center">
 </div>
 
 <div style="text-align: center">I am currently a freshman undergraduate majoring in Computer Science and Engineering at the University of California, Merced.
@@ -33,6 +33,8 @@ or any topics that you found interesting! I would love to hear your perspective!
 <div class="container">
   <a href="https://www.discordapp.com/users/384835156503953410/"><img src="/images/discord-logo-logodownload-download-logotipos-1.png" width="25" height="25" class="center"></a>
 </div>
+
+<br>
 
 > This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
