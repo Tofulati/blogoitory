@@ -15,6 +15,8 @@ permalink: /about/
     </div>
 </center>
 
+<br>
+
 <div style="text-align: center">I am currently a freshman undergraduate majoring in Computer Science and Engineering at the University of California, Merced.
 As of right now, I have experience with Java, Python, and some in HTML however, I am still working on improving my skills. I have interests
 in stocks, music (mostly KPOP and KRNB), piano, and anything programming related (as I want to expand my horizons in coding or 
