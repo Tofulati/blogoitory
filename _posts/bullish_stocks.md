@@ -7,7 +7,7 @@ comments: true
 image: images/LWVKQPHVBNBXBEV2VWXTURF26I.jpg
 hide: false
 search_exclude: true
-categories: [markdown]\
+categories: [markdown]
 show_image: true
 metadata_key1: metadata_value1
 metadata_key2: metadata_value2
