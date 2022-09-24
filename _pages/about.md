@@ -3,6 +3,8 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+<br> 
+
 <style>
     div.container {
       display:inline-block;
