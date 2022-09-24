@@ -21,7 +21,7 @@ I am able to connect with others and hone my web dev. Please feel free to contac
 or any topics that you found interesting! I would love to hear your perspective!</div> 
 
 <br>
-<b>Connect with me:</b></div>
+<div style="text-align: center"><b>Connect with me:</b></div>
 
 <center>
 <div class="container">
