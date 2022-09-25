@@ -3,6 +3,7 @@ title: "Amateur Investor"
 description: "Thoughts of an amateur investor"
 hide: false
 search_exclude: false
+comments: true
 layout: post
 image: /images/Baby-Hold-Money-Image-1-768x512.jpg
 categories: [markdown]
