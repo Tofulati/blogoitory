@@ -25,11 +25,11 @@ As I know it, stocks are based on decisions made by companies, government influe
 Moving on to the topic of shorting... Shorting, shorting, why do you exist... 
 The concept of shorting was never something that I grasped entirely. As Investopedia puts it:
 
-> Short selling **occurs when an investor borrows a security and sells it on the open market, planning to buy it back later for less money**. Short-sellers bet on, and profit from, a drop in a security's price. ([Investopedia](https://www.investopedia.com/terms/s/shortselling.asp))
+> Short selling **occurs when an investor borrows a security and sells it on the open market, planning to buy it back later for less money**. Short-sellers bet on, and profit from, a drop in a security's price. [Investopedia](https://www.investopedia.com/terms/s/shortselling.asp)
 
 It baffles me why someone would allow someone take a share of their stock, betting, hoping that it would go down (I will return to this topic later in this blog.) Shorting, to me and many others (I am sure of) sounds unethical in its entirety. Yes there may be some benefits like 
 
-> provide liquidity and price discovery to a market, making it more efficient ([Investopedia](https://www.investopedia.com/terms/s/shortselling.asp))
+> provide liquidity and price discovery to a market, making it more efficient [Investopedia](https://www.investopedia.com/terms/s/shortselling.asp)
 
 but the ethcicity of the whole concept, in my opinion, overpowers the benefits. The closest thing that I can think of that could relate to the concept of shorting a stock is like how a superhero would offer themselves up to a villain and see the world burn as only the villain benefits; which does not make any sense. Don't people want to see the upsides, rather than the down? I dont get it...
 
