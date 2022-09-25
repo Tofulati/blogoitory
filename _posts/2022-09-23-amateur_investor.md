@@ -26,13 +26,17 @@ The concept of shorting was never something that I grasped entirely. As Investop
 
 > Short selling **occurs when an investor borrows a security and sells it on the open market, planning to buy it back later for less money**. Short-sellers bet on, and profit from, a drop in a security's price. ([Investopedia](https://www.investopedia.com/terms/s/shortselling.asp))
 
-It baffles me why someone would allow someone take a share of their stock, betting, hoping that it would go down (I will return to this topic later in this blog.) Shorting, to me and many others (I am sure of) sounds unethical in its entirety. Yes there may be some benefits like 
+It baffles me why someone would allow someone take a share of their stock, betting that it would go down. Like why would you let someone do this?? You are literally letting people borrow a share of your stocks and let them earn off of it, by hoping it would go down. Im sure, to me and many others, shorting sounds unethical in its entirety. Although there are some unethical parts of shorting, there may be some benefits like 
 
 > provide liquidity and price discovery to a market, making it more efficient ([Investopedia](https://www.investopedia.com/terms/s/shortselling.asp))
 
-but the ethcicity of the whole concept, in my opinion, overpowers the benefits. The closest thing that I can think of that could relate to the concept of shorting a stock is like how a superhero would offer themselves up to a villain and see the world burn as only the villain benefits; which does not make any sense. Don't people want to see the upsides, rather than the down? I dont get it...
+but the ethcicity of the whole concept, in my opinion, overpowers the benefits. I know this is sort of controversial as there are many people that have benefited off shorting, but how is this legal? The closest thing that I can think of that could relate to the concept of shorting a stock is like how a superhero would offer themselves up to a villain and see the world burn as only the villain benefits; which does not make any sense. Don't people want to see the upsides, rather than the down? I dont get it...
 
-There is still I do not know about the stock market and/or stocks so, yes, I'm an amateur. 👍
+<center>
+        <img src="{{ site.baseurl }}/images/stock-market-meme-9-300x224.jpg">
+</center>
+
+There is still I do not know about the stock market and/or stocks so, yes, I'm an amateur. 👶💵
 <script src="https://utteranc.es/client.js"
         repo="Tofulati/blogoiotory"
         issue-term="pathname"
