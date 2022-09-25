@@ -36,4 +36,10 @@ but the ethcicity of the whole concept, in my opinion, overpowers the benefits. 
 
 There is still I do not know about the stock market and/or stocks so, yes, I'm an amateur. 👍
 
-
+<script src="https://utteranc.es/client.js"
+        repo="Tofulati/blogoiotory"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
