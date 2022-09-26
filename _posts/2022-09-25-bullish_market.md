@@ -11,6 +11,7 @@ categories: [markdown]
 
 <mark>By no means am I an experienced investor or someone fully understands the stock market. Please read with discretion.</mark>
 
+
 <center>
         <img src="{{ site.baseurl }}/images/image_2022-09-25_162629613.png">
 </center>
