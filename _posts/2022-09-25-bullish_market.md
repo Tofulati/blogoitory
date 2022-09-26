@@ -51,7 +51,7 @@ Nearly dropping ~50% from its peak in November 15th of last year, the stock has 
 
 Looking at the stock market now, I have still have plenty to learn. Recognizing patterns and fully understanding the ins and outs of the stock market are still something that I continue to work on. Despite the drawbacks of losing money on my first year in the market, this plunge offers me opportunities for what to watch out for. Although it is still too early to finalize any thoughts, I hope to stock market makes a recovery... 
 
-![](image_2022-09-25_175117815.png)
+![](/images/image_2022-09-25_175117815.png)
 
 Or maybe not.
 
