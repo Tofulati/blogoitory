@@ -9,7 +9,6 @@ image: /images/Baby-Hold-Money-Image-1-768x512.jpg
 categories: [markdown]
 ---
 
-## Amateur Investor
 I am not what one would call a seasoned investor, infact, I am quite the opposite. 
 
 
