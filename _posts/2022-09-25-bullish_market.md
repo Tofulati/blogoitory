@@ -62,5 +62,5 @@ Looking at the stock market now, I have still have plenty to learn. Recognizing 
 Or maybe not.
 
 
-:--:
-[^1]As of writting this blog, September 25th, 2022
+
+[^1]: As of writting this blog, September 25th, 2022
