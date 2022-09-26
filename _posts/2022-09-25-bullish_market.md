@@ -11,9 +11,10 @@ categories: [markdown]
 
 <mark>By no means am I an experienced investor or someone fully understands the stock market. Please read with discretion.</mark>
 
-![](/images/image_2022-09-25_162629613.png)
-:--:
-Purple representing S&P 500 and Blue representing DOW Jones
+<center>
+        <img src="{{ site.baseurl }}/images/image_2022-09-25_162629613.png">
+</center>
+_Purple representing S&P 500 and Blue representing DOW Jones_
 
 The August and September stock market sessions have been on the low. All across the board, red. The S&P 500 dropped nearly 15%[^1] and the DOW Jones Industrial Average dropping nearly 13%[^1] from their peaks around August 16th. Despite these drops, there were multiple occasions where the markets gained (as it usually fluxuates.) However, the most prominent of these gains was within the week of August 6th to 12th as the S&P 500 increased with a ~5% gain and DOW Jones Industrial Average with an increase of ~4% gain. Although this period of time was a sigh of relief for investors, the stock market changed course and plunged. Though there are multiple factors to blame, one of the most prominent would be due to FED price hikes. 
 
@@ -38,20 +39,25 @@ As mentioned in my previous blog, the stock market is something that I am fairly
 
 Looking back, NKE (Nike) seemed like a great idea as previous years showed promise.
 
-![](/images/image_2022-09-25_171232284.png)
-:--:
+<center>
+        <img src="{{ site.baseurl }}/images/image_2022-09-25_171232284.png">
+</center>
 
 As someone that actively browses Nike, purchasing NKE within the fourth quarter was something that quite appealing. Within the month of October, Nike has been known to release new shoes as people flock to stores in hopes of securing new shoes. Comparing the times of these releases with previous years of NKE stock, there was a similar relationship between the two. Though there may have been other factors that resulted in this increase, increases in the stock that happened to be around there is a new release is quite a coincidence. 
 
 As of writing this, calling the shots on the future of this stock seem a little idiotic, however, the current state of NKE is in shambles. Looking at the beginning of  year, the stock has been on a steady fall. 
 
-![](/images/image_2022-09-25_173243396.png)
+<center>
+        <img src="{{ site.baseurl }}/images/image_2022-09-25_173243396.png">
+</center>
 
 Nearly dropping ~50% from its peak in November 15th of last year, the stock has been dropping ever since. Looking forwards to the earnings report day (September 29th,) all we can hope for is an increase in earnings compared to last year. 
 
 Looking at the stock market now, I have still have plenty to learn. Recognizing patterns and fully understanding the ins and outs of the stock market are still something that I continue to work on. Despite the drawbacks of losing money on my first year in the market, this plunge offers me opportunities for what to watch out for. Although it is still too early to finalize any thoughts, I hope to stock market makes a recovery... 
 
-![](/images/image_2022-09-25_175117815.png)
+<center>
+        <img src="{{ site.baseurl }}/images/image_2022-09-25_175117815.png">
+</center>
 
 Or maybe not.
 
