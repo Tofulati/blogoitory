@@ -33,12 +33,6 @@ or any topics that you found interesting! I would love to hear your perspective!
 <div class="container">
   <a href="https://www.linkedin.com/in/alberthoo/"><img src="{{ site.baseurl }}/images/58e91afdeb97430e81906504.png" width="25" height="25" class="center"></a>
 </div>
-<div class="container">
-  <a href="https://https://www.instagram.com/albrthoo/"><img src="{{ site.baseurl }}/images/instagram-new-flat.png" width="25" height="25" class="center"></a>
-</div>
-<div class="container">
-  <a href="https://www.discordapp.com/users/384835156503953410/"><img src="{{ site.baseurl }}/images/discord-logo-logodownload-download-logotipos-1.png" width="25" height="25" class="center"></a>
-</div>
 </center>
     
 <br>
